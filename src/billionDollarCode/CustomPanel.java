@@ -17,7 +17,7 @@ class CustomPanel extends JPanel {
     private int width;
     private int height;
     private Player[] ps;
-    private Timer time;
+    private Timer time;//s
     private int runTime;
     private boolean win = false;
 
